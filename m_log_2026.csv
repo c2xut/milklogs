@@ -1,6 +1,7 @@
-date (m-d-y),time (AM/PM),type of dairy,effect
+date (m-d),time (AM/PM),type of dairy,effect
 Janaury,*,*,*
 February,*,*,*
 March,*,*,*
 April,*,*,*
-March-13-26,*,*,*
+-March,-,-,-
+March-13,*,*,*
