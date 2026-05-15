@@ -1,11 +1,12 @@
-date (m-d),time (AM/PM),type of dairy,effect
+date (m-d),time (AM/PM),type of dairy,paired with water,effect,
 Janaury,*,*,*
-------------,------------,------------,------------
+------------,------------,------------,------------,------------
 February,*,*,*
-------------,------------,------------,------------
+------------,------------,------------,------------,------------
 March,*,*,*
-------------,------------,------------,------------
+------------,------------,------------,------------,------------
 April,*,*,*
-------------,------------,------------,------------
+------------,------------,------------,------------,------------
 May-13,*,*,*
-May-14,5:32 PM,Malted Biscuit,Slight itchiness - Corners of mouth
+May-14,5:32 PM,Malted Biscuit,Yes,Slight itchiness - Corners of mouth
+May-15,9:12 PM,Malted Biscuit,Yes,Sligh itchinesss - Corners of mouth
